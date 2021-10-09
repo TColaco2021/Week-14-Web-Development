@@ -189,7 +189,7 @@ An API (Application Programming Interface) is a software intermediary that allow
 
 What type of underlying technology allows for microservices to become scalable and have redundancy?
 
-Load Balancing. This is the process of distributing network traffic across multiple servers. This ensures no single server bears too much demand. By spreading out the work evenly, load balancing improves application responsiveness and increases availability of applications/websites for users.
+Containers. Since your services are separate, you can more easily scale the most needed ones at the appropriate times, as opposed to the whole application. When done correctly, this can impact cost savings and deployment efficiency.
 
 ### Deploying and Testing a Container Set
 
