@@ -162,7 +162,7 @@ SessionID=5
 
 What kind of content is likely to be in the [page content] response body?
 
-Page configuration details
+Based on the content-type: text/html header, the response body contains the site's web code.
 
 If your class covered security headers, what security request headers have been included?
 
@@ -174,14 +174,7 @@ Answer the following questions about monoliths and microservices:
 
 What are the individual components of microservices called?
 
-Clients
-Identity Providers
-API Gateway
-Messaging Formats
-Databases
-Static Content
-Management
-Service Discovery
+When a monolith's components are separated by functions, they are called services.
 
 What is a service that writes to a database and communicates to other services?
 
